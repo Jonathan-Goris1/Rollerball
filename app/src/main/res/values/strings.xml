@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Rollerball</string>
+    <string name="play_game">Play Game</string>
+    <string name="game_objective_text">The objective of the game is to move the ball side to side avoiding the obstacles ahead of you. To move the ball side to side you use the phone itself, by tilting the phone left or right you can move the ball left or right. To win the game you must reach the bottom of the screen while av avoiding the obstacles. GOOD LUCk! </string>
+    <string name="objective">Objective</string>
+</resources>
